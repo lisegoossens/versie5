@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "home.html",
+    "currentPage": "fotografie.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 106,
     "versionPublish": "4.3.2",
@@ -1906,7 +1906,7 @@
         }
       ]
     },
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
